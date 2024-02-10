@@ -2,25 +2,44 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
-}
-
-body {
-}
-
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.bg-red-200{
+  background-color: rgba(255,0,0,0.2);
+}
+
+.bg-blue-200{
+  background-color: rgba(0,0,255,0.2);
+}
+
+.bg-red-300{
+  background-color: rgba(255,0,0,0.3);
+}
+
+.text-red-700{
+  color: rgba(255,0,0,0.7);
+}
+
+.text-blue-700{
+  color: rgba(0,0,255,0.7);
+}
+
+.text-red-800{
+  color: rgba(255,0,0,0.8);
+}
+
+.text-blue-800{
+  color: rgba(0,0,255,0.8);
+}
+
+.border-red-500{
+  border: 1px solid rgba(255,0,0,0.5);
+}
+
+.border-blue-500{
+  border: 1px solid rgba(0,0,255,0.5);
 }
