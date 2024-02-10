@@ -1,0 +1,133 @@
+[
+    {
+      "id": 1,
+      "name": "Maharashtra",
+      "temperature": 28.5,
+      "weatherCondition": "Clear",
+      "cities": [
+        {"id": 101, "name": "Mumbai", "temp": 24.5, "weather": "Clear", "windSpeed": 5.6, "population": 12442373, "info": "City 1 information"},
+        {"id": 102, "name": "Pune", "temp": 21.5, "weather": "Clear", "windSpeed": 5.6, "population": 3124455, "info": "City 2 information"},
+        {"id": 103, "name": "Nagpur", "temp": 22.5, "weather": "Clear", "windSpeed": 5.6, "population": 2454414, "info": "City 3 information"},
+        {"id": 104, "name": "Nashik", "temp": 25.5, "weather": "Clear", "windSpeed": 5.6, "population": 1672643, "info": "City 4 information"},
+        {"id": 105, "name": "Aurangabad", "temp": 27.5, "weather": "Clear", "windSpeed": 5.6, "population": 1171330, "info": "City 5 information"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Uttar Pradesh",
+      "temperature": 11.2,
+      "weatherCondition": "Partly Cloudy",
+      "cities": [
+        {"id": 201, "name": "Lucknow", "temp": 12.2, "weather": "Partly Cloudy", "windSpeed": 6.2, "population": 2935024, "info": "City 1 information"},
+        {"id": 202, "name": "Kanpur", "temp": 15.2, "weather": "Partly Cloudy", "windSpeed": 6.2, "population": 2767895, "info": "City 2 information"},
+        {"id": 203, "name": "Agra", "temp": 14.2, "weather": "Partly Cloudy", "windSpeed": 6.2, "population": 1585705, "info": "City 3 information"},
+        {"id": 204, "name": "Varanasi", "temp": 16.2, "weather": "Partly Cloudy", "windSpeed": 6.2, "population": 1198491, "info": "City 4 information"},
+        {"id": 205, "name": "Allahabad", "temp": 17.2, "weather": "Partly Cloudy", "windSpeed": 6.2, "population": 1208361, "info": "City 5 information"}
+      ]
+    },
+    {
+        "id": 3,
+        "name": "Tamil Nadu",
+        "temperature": 27.8,
+        "weatherCondition": "Sunny",
+        "cities": [
+          {"id": 301, "name": "Chennai", "temp": 24.8, "weather": "Sunny", "windSpeed": 4.5, "population": 4646732, "info": "City 1 information"},
+          {"id": 302, "name": "Coimbatore", "temp": 29.8, "weather": "Sunny", "windSpeed": 4.5, "population": 1676615, "info": "City 2 information"},
+          {"id": 303, "name": "Madurai", "temp": 25.8, "weather": "Sunny", "windSpeed": 4.5, "population": 1459260, "info": "City 3 information"},
+          {"id": 304, "name": "Trichy", "temp": 21.8, "weather": "Sunny", "windSpeed": 4.5, "population": 1065848, "info": "City 4 information"},
+          {"id": 305, "name": "Salem", "temp": 29.8, "weather": "Sunny", "windSpeed": 4.5, "population": 1033358, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Karnataka",
+        "temperature": 29.3,
+        "weatherCondition": "Clear",
+        "cities": [
+          {"id": 401, "name": "Bangalore", "temp": 30.3, "weather": "Clear", "windSpeed": 5.2, "population": 8443675, "info": "City 1 information"},
+          {"id": 402, "name": "Mysuru", "temp": 25.3, "weather": "Clear", "windSpeed": 5.2, "population": 990900, "info": "City 2 information"},
+          {"id": 403, "name": "Hubli", "temp": 22.3, "weather": "Clear", "windSpeed": 5.2, "population": 1035360, "info": "City 3 information"},
+          {"id": 404, "name": "Mangalore", "temp": 22.3, "weather": "Clear", "windSpeed": 5.2, "population": 623841, "info": "City 4 information"},
+          {"id": 405, "name": "Belgaum", "temp": 24.3, "weather": "Clear", "windSpeed": 5.2, "population": 610189, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Kerala",
+        "temperature": 26.5,
+        "weatherCondition": "Rainy",
+        "cities": [
+          {"id": 501, "name": "Thiruvananthapuram", "temp": 19.5, "weather": "Rainy", "windSpeed": 6.8, "population": 957730, "info": "City 1 information"},
+          {"id": 502, "name": "Kochi", "temp": 18.5, "weather": "Rainy", "windSpeed": 6.8, "population": 677381, "info": "City 2 information"},
+          {"id": 503, "name": "Kozhikode", "temp": 22.5, "weather": "Rainy", "windSpeed": 6.8, "population": 432097, "info": "City 3 information"},
+          {"id": 504, "name": "Thrissur", "temp": 29.5, "weather": "Rainy", "windSpeed": 6.8, "population": 315596, "info": "City 4 information"},
+          {"id": 505, "name": "Kollam", "temp": 22.5, "weather": "Rainy", "windSpeed": 6.8, "population": 349033, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Gujarat",
+        "temperature": 31.0,
+        "weatherCondition": "Sunny",
+        "cities": [
+          {"id": 601, "name": "Ahmedabad", "temp": 33.0, "weather": "Sunny", "windSpeed": 4.8, "population": 5577940, "info": "City 1 information"},
+          {"id": 602, "name": "Surat", "temp": 29.0, "weather": "Sunny", "windSpeed": 4.8, "population": 4467797, "info": "City 2 information"},
+          {"id": 603, "name": "Vadodara", "temp": 27.0, "weather": "Sunny", "windSpeed": 4.8, "population": 2065771, "info": "City 3 information"},
+          {"id": 604, "name": "Rajkot", "temp": 28.0, "weather": "Sunny", "windSpeed": 4.8, "population": 1335397, "info": "City 4 information"},
+          {"id": 605, "name": "Bhavnagar", "temp": 32.0, "weather": "Sunny", "windSpeed": 4.8, "population": 592438, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Rajasthan",
+        "temperature": 33.5,
+        "weatherCondition": "Clear",
+        "cities": [
+          {"id": 701, "name": "Jaipur", "temp": 35.5, "weather": "Clear", "windSpeed": 5.4, "population": 3046163, "info": "City 1 information"},
+          {"id": 702, "name": "Jodhpur", "temp": 36.5, "weather": "Clear", "windSpeed": 5.4, "population": 1453718, "info": "City 2 information"},
+          {"id": 703, "name": "Udaipur", "temp": 33.5, "weather": "Clear", "windSpeed": 5.4, "population": 451100, "info": "City 3 information"},
+          {"id": 704, "name": "Ajmer", "temp": 34.5, "weather": "Clear", "windSpeed": 5.4, "population": 542321, "info": "City 4 information"},
+          {"id": 705, "name": "Kota", "temp": 31.5, "weather": "Clear", "windSpeed": 5.4, "population": 1001694, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 8,
+        "name": "West Bengal",
+        "temperature": 29.8,
+        "weatherCondition": "Partly Cloudy",
+        "cities": [
+          {"id": 801, "name": "Kolkata", "temp": 24.8, "weather": "Partly Cloudy", "windSpeed": 6.1, "population": 4631392, "info": "City 1 information"},
+          {"id": 802, "name": "Howrah", "temp": 26.8, "weather": "Partly Cloudy", "windSpeed": 6.1, "population": 1001694, "info": "City 2 information"},
+          {"id": 803, "name": "Durgapur", "temp": 22.0, "weather": "Partly Cloudy", "windSpeed": 6.1, "population": 581345, "info": "City 3 information"},
+          {"id": 804, "name": "Asansol", "temp": 24.8, "weather": "Partly Cloudy", "windSpeed": 6.1, "population": 563917, "info": "City 4 information"},
+          {"id": 805, "name": "Siliguri", "temp": 29.8, "weather": "Partly Cloudy", "windSpeed": 6.1, "population": 513264, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Madhya Pradesh",
+        "temperature": 28.2,
+        "weatherCondition": "Clear",
+        "cities": [
+          {"id": 901, "name": "Bhopal", "temp": 26.2, "weather": "Clear", "windSpeed": 4.9, "population": 1883387, "info": "City 1 information"},
+          {"id": 902, "name": "Indore", "temp": 27.2, "weather": "Clear", "windSpeed": 4.9, "population": 1998121, "info": "City 2 information"},
+          {"id": 903, "name": "Gwalior", "temp": 25.2, "weather": "Clear", "windSpeed": 4.9, "population": 1170520, "info": "City 3 information"},
+          {"id": 904, "name": "Jabalpur", "temp": 29.2, "weather": "Clear", "windSpeed": 4.9, "population": 246517, "info": "City 4 information"},
+          {"id": 905, "name": "Ujjain", "temp": 25.2, "weather": "Clear", "windSpeed": 4.9, "population": 515215, "info": "City 5 information"}
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Telangana",
+        "temperature": 30.5,
+        "weatherCondition": "Partly Cloudy",
+        "cities": [
+          {"id": 1001, "name": "Hyderabad", "temp": 31.5, "weather": "Partly Cloudy", "windSpeed": 5.7, "population": 6731790, "info": "City 1 information"},
+          {"id": 1002, "name": "Warangal", "temp": 33.5, "weather": "Partly Cloudy", "windSpeed": 5.7, "population": 756042, "info": "City 2 information"},
+          {"id": 1003, "name": "Nizamabad", "temp": 32.5, "weather": "Partly Cloudy", "windSpeed": 5.7, "population": 310467, "info": "City 3 information"},
+          {"id": 1004, "name": "Karimnagar", "temp": 30.5, "weather": "Partly Cloudy", "windSpeed": 5.7, "population": 297447, "info": "City 4 information"},
+          {"id": 1005, "name": "Khammam", "temp": 33.5, "weather": "Partly Cloudy", "windSpeed": 5.7, "population": 297447, "info": "City 5 information"}
+        ]
+      }
+  ]
+  
